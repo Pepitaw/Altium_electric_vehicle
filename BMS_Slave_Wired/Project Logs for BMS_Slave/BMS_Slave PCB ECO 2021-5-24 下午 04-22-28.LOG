@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=ISO_SPI_BOTTOM_P Pin=FL1-1
+Removed Pin From Net: NetName=ISO_SPI_BOTTOM_N Pin=FL1-2
+Removed Pin From Net: NetName=ISO_SPI_MED_N Pin=FL1-3
+Removed Pin From Net: NetName=ISO_SPI_MED_P Pin=FL1-4
+Change Component Comment : Designator=R112 Old Comment=CRCW060310K0FKEAC New Comment=100R
+Added Pin To Net: NetName=ISO_SPI_BOTTOM_N Pin=FL1-1
+Added Pin To Net: NetName=ISO_SPI_BOTTOM_P Pin=FL1-2
+Added Pin To Net: NetName=ISO_SPI_MED_P Pin=FL1-3
+Added Pin To Net: NetName=ISO_SPI_MED_N Pin=FL1-4
+Change Net Name : Old Net Name=ISO_SPI_TOP_N New Net Name=NetC73_1

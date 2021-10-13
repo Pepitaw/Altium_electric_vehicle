@@ -1,0 +1,40 @@
+Added Pin To Net: NetName=AI-0 Pin=BRD1-10
+Added Net: Name=AI-0
+Added Pin To Net: NetName=AI-1 Pin=BRD1-8
+Added Net: Name=AI-1
+Added Pin To Net: NetName=AI-2 Pin=BRD1-7
+Added Net: Name=AI-2
+Added Pin To Net: NetName=AI-3 Pin=BRD1-9
+Added Net: Name=AI-3
+Added Pin To Net: NetName=CS1 Pin=BRD1-43
+Added Net: Name=CS1
+Added Pin To Net: NetName=GPIO21 Pin=BRD1-26
+Added Net: Name=GPIO21
+Added Pin To Net: NetName=GPIO22 Pin=BRD1-25
+Added Net: Name=GPIO22
+Added Pin To Net: NetName=GPIO23 Pin=BRD1-21
+Added Net: Name=GPIO23
+Added Pin To Net: NetName=PWM0 Pin=BRD1-46
+Added Net: Name=PWM0
+Added Pin To Net: NetName=SPIS_MISO Pin=BRD1-47
+Added Net: Name=SPIS_MISO
+Added Pin To Net: NetName=SPIS_MOSI Pin=BRD1-48
+Added Net: Name=SPIS_MOSI
+Added Pin To Net: NetName=SPIS_SCK Pin=BRD1-49
+Added Net: Name=SPIS_SCK
+Added Pin To Net: NetName=SPIS_SS Pin=BRD1-50
+Added Net: Name=SPIS_SS
+Added Pin To Net: NetName=TIMER16_IN Pin=BRD1-45
+Added Net: Name=TIMER16_IN
+Added Pin To Net: NetName=UART_RX_CTSn Pin=BRD1-58
+Added Net: Name=UART_RX_CTSn
+Added Pin To Net: NetName=UART_RX_RTSn Pin=BRD1-57
+Added Net: Name=UART_RX_RTSn
+Added Pin To Net: NetName=UART_RX Pin=BRD1-59
+Added Net: Name=UART_RX
+Added Pin To Net: NetName=UART_TX_CTSn Pin=BRD1-61
+Added Net: Name=UART_TX_CTSn
+Added Pin To Net: NetName=UART_TX_RTSn Pin=BRD1-60
+Added Net: Name=UART_TX_RTSn
+Added Pin To Net: NetName=UART_TX Pin=BRD1-62
+Added Net: Name=UART_TX

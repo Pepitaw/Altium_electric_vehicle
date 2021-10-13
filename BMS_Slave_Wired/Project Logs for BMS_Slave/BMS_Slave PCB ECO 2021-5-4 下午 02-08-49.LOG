@@ -1,0 +1,164 @@
+Removed Pin From Net: NetName=CELL_UF_9 Pin=P1-1
+Removed Pin From Net: NetName=CELL_UF_8 Pin=P1-2
+Removed Pin From Net: NetName=CELL_UF_3 Pin=P1-3
+Removed Pin From Net: NetName=CELL_UF_2 Pin=P1-4
+Removed Pin From Net: NetName=CELL_UF_10 Pin=P1-5
+Removed Pin From Net: NetName=CELL_UF_11 Pin=P1-6
+Removed Pin From Net: NetName=CELL_UF_0 Pin=P1-11
+Removed Pin From Net: NetName=CELL_UF_1 Pin=P1-12
+Change Component Footprint: Designator=C25 Old Footprint=CAPC2012X98N New Footprint=CAPC1608X85N
+Change Component Footprint: Designator=C26 Old Footprint=CAPC2012X98N New Footprint=CAPC1608X85N
+Change Component Footprint: Designator=C27 Old Footprint=CAPC2012X98N New Footprint=CAPC1608X85N
+Change Component Footprint: Designator=C28 Old Footprint=CAPC2012X98N New Footprint=CAPC1608X85N
+Change Component Footprint: Designator=C29 Old Footprint=CAPC2012X98N New Footprint=CAPC1608X85N
+Change Component Footprint: Designator=C30 Old Footprint=CAPC2012X98N New Footprint=CAPC1608X85N
+Change Component Footprint: Designator=C31 Old Footprint=CAPC2012X98N New Footprint=CAPC1608X85N
+Change Component Footprint: Designator=C32 Old Footprint=CAPC2012X98N New Footprint=CAPC1608X85N
+Change Component Footprint: Designator=C33 Old Footprint=CAPC2012X98N New Footprint=CAPC1608X85N
+Change Component Footprint: Designator=C34 Old Footprint=CAPC2012X98N New Footprint=CAPC1608X85N
+Change Component Footprint: Designator=C35 Old Footprint=CAPC2012X98N New Footprint=CAPC1608X85N
+Change Component Footprint: Designator=C36 Old Footprint=CAPC2012X98N New Footprint=CAPC1608X85N
+Change Component Footprint: Designator=C37 Old Footprint=CAPC2012X98N New Footprint=CAPC1608X85N
+Change Component Footprint: Designator=C38 Old Footprint=CAPC2012X98N New Footprint=CAPC1608X85N
+Change Component Footprint: Designator=C39 Old Footprint=CAPC2012X98N New Footprint=CAPC1608X85N
+Change Component Footprint: Designator=C40 Old Footprint=CAPC2012X98N New Footprint=CAPC1608X85N
+Change Component Footprint: Designator=C41 Old Footprint=CAPC2012X98N New Footprint=CAPC1608X85N
+Change Component Footprint: Designator=C42 Old Footprint=CAPC2012X98N New Footprint=CAPC1608X85N
+Change Component Footprint: Designator=C43 Old Footprint=CAPC2012X98N New Footprint=CAPC1608X85N
+Change Component Footprint: Designator=C44 Old Footprint=CAPC2012X98N New Footprint=CAPC1608X85N
+Change Component Footprint: Designator=C45 Old Footprint=CAPC2012X98N New Footprint=CAPC1608X85N
+Change Component Footprint: Designator=C46 Old Footprint=CAPC2012X98N New Footprint=CAPC1608X85N
+Change Component Footprint: Designator=C47 Old Footprint=CAPC2012X98N New Footprint=CAPC1608X85N
+Change Component Footprint: Designator=C48 Old Footprint=CAPC2012X98N New Footprint=CAPC1608X85N
+Change Component Footprint: Designator=C49 Old Footprint=CAPC2012X98N New Footprint=CAPC1608X85N
+Change Component Footprint: Designator=C50 Old Footprint=CAPC2012X98N New Footprint=CAPC1608X85N
+Change Component Footprint: Designator=C51 Old Footprint=CAPC2012X98N New Footprint=CAPC1608X85N
+Change Component Footprint: Designator=C65 Old Footprint=CAPC2012X98N New Footprint=CAPC1608X85N
+Change Component Footprint: Designator=C69 Old Footprint=CAPC2012X98N New Footprint=CAPC1608X85N
+Change Component Footprint: Designator=C70 Old Footprint=CAPC2012X98N New Footprint=CAPC1608X85N
+Change Component Footprint: Designator=C71 Old Footprint=CAPC2012X98N New Footprint=CAPC1608X85N
+Change Component Footprint: Designator=C72 Old Footprint=CAPC2012X98N New Footprint=CAPC1608X85N
+Change Component Footprint: Designator=C73 Old Footprint=CAPC2012X98N New Footprint=CAPC1608X85N
+Change Component Footprint: Designator=C1 Old Footprint=CAPC2012X140N New Footprint=CAPC1608X85N
+Change Component Footprint: Designator=C2 Old Footprint=CAPC2012X140N New Footprint=CAPC1608X85N
+Change Component Footprint: Designator=C3 Old Footprint=CAPC2012X140N New Footprint=CAPC1608X85N
+Change Component Footprint: Designator=C4 Old Footprint=CAPC2012X140N New Footprint=CAPC1608X85N
+Change Component Footprint: Designator=C5 Old Footprint=CAPC2012X140N New Footprint=CAPC1608X85N
+Change Component Footprint: Designator=C6 Old Footprint=CAPC2012X140N New Footprint=CAPC1608X85N
+Change Component Footprint: Designator=C7 Old Footprint=CAPC2012X140N New Footprint=CAPC1608X85N
+Change Component Footprint: Designator=C8 Old Footprint=CAPC2012X140N New Footprint=CAPC1608X85N
+Change Component Footprint: Designator=C9 Old Footprint=CAPC2012X140N New Footprint=CAPC1608X85N
+Change Component Footprint: Designator=C10 Old Footprint=CAPC2012X140N New Footprint=CAPC1608X85N
+Change Component Footprint: Designator=C11 Old Footprint=CAPC2012X140N New Footprint=CAPC1608X85N
+Change Component Footprint: Designator=C12 Old Footprint=CAPC2012X140N New Footprint=CAPC1608X85N
+Change Component Footprint: Designator=C13 Old Footprint=CAPC2012X140N New Footprint=CAPC1608X85N
+Change Component Footprint: Designator=C14 Old Footprint=CAPC2012X140N New Footprint=CAPC1608X85N
+Change Component Footprint: Designator=C15 Old Footprint=CAPC2012X140N New Footprint=CAPC1608X85N
+Change Component Footprint: Designator=C16 Old Footprint=CAPC2012X140N New Footprint=CAPC1608X85N
+Change Component Footprint: Designator=C17 Old Footprint=CAPC2012X140N New Footprint=CAPC1608X85N
+Change Component Footprint: Designator=C18 Old Footprint=CAPC2012X140N New Footprint=CAPC1608X85N
+Change Component Footprint: Designator=C19 Old Footprint=CAPC2012X140N New Footprint=CAPC1608X85N
+Change Component Footprint: Designator=C20 Old Footprint=CAPC2012X140N New Footprint=CAPC1608X85N
+Change Component Footprint: Designator=C21 Old Footprint=CAPC2012X140N New Footprint=CAPC1608X85N
+Change Component Footprint: Designator=C22 Old Footprint=CAPC2012X140N New Footprint=CAPC1608X85N
+Change Component Footprint: Designator=C23 Old Footprint=CAPC2012X140N New Footprint=CAPC1608X85N
+Change Component Footprint: Designator=C24 Old Footprint=CAPC2012X140N New Footprint=CAPC1608X85N
+Change Component Comment : Designator=C1 Old Comment=C0805C104M3RACTU New Comment=C0603C104K3RACTU
+Change Component Comment : Designator=C2 Old Comment=C0805C104M3RACTU New Comment=C0603C104K3RACTU
+Change Component Comment : Designator=C3 Old Comment=C0805C104M3RACTU New Comment=C0603C104K3RACTU
+Change Component Comment : Designator=C4 Old Comment=C0805C104M3RACTU New Comment=C0603C104K3RACTU
+Change Component Comment : Designator=C5 Old Comment=C0805C104M3RACTU New Comment=C0603C104K3RACTU
+Change Component Comment : Designator=C6 Old Comment=C0805C104M3RACTU New Comment=C0603C104K3RACTU
+Change Component Comment : Designator=C7 Old Comment=C0805C104M3RACTU New Comment=C0603C104K3RACTU
+Change Component Comment : Designator=C8 Old Comment=C0805C104M3RACTU New Comment=C0603C104K3RACTU
+Change Component Comment : Designator=C9 Old Comment=C0805C104M3RACTU New Comment=C0603C104K3RACTU
+Change Component Comment : Designator=C10 Old Comment=C0805C104M3RACTU New Comment=C0603C104K3RACTU
+Change Component Comment : Designator=C11 Old Comment=C0805C104M3RACTU New Comment=C0603C104K3RACTU
+Change Component Comment : Designator=C12 Old Comment=C0805C104M3RACTU New Comment=C0603C104K3RACTU
+Change Component Comment : Designator=C13 Old Comment=C0805C104M3RACTU New Comment=C0603C104K3RACTU
+Change Component Comment : Designator=C14 Old Comment=C0805C104M3RACTU New Comment=C0603C104K3RACTU
+Change Component Comment : Designator=C15 Old Comment=C0805C104M3RACTU New Comment=C0603C104K3RACTU
+Change Component Comment : Designator=C16 Old Comment=C0805C104M3RACTU New Comment=C0603C104K3RACTU
+Change Component Comment : Designator=C17 Old Comment=C0805C104M3RACTU New Comment=C0603C104K3RACTU
+Change Component Comment : Designator=C18 Old Comment=C0805C104M3RACTU New Comment=C0603C104K3RACTU
+Change Component Comment : Designator=C19 Old Comment=C0805C104M3RACTU New Comment=C0603C104K3RACTU
+Change Component Comment : Designator=C20 Old Comment=C0805C104M3RACTU New Comment=C0603C104K3RACTU
+Change Component Comment : Designator=C21 Old Comment=C0805C104M3RACTU New Comment=C0603C104K3RACTU
+Change Component Comment : Designator=C22 Old Comment=C0805C104M3RACTU New Comment=C0603C104K3RACTU
+Change Component Comment : Designator=C23 Old Comment=C0805C104M3RACTU New Comment=C0603C104K3RACTU
+Change Component Comment : Designator=C24 Old Comment=C0805C104M3RACTU New Comment=C0603C104K3RACTU
+Change Component Comment : Designator=C25 Old Comment=C0805X103M2RACAUTO New Comment=200V, 0.01uF, 0603, X7R
+Change Component Comment : Designator=C26 Old Comment=C0805X103M2RACAUTO New Comment=200V, 0.01uF, 0603, X7R
+Change Component Comment : Designator=C27 Old Comment=C0805X103M2RACAUTO New Comment=200V, 0.01uF, 0603, X7R
+Change Component Comment : Designator=C28 Old Comment=C0805X103M2RACAUTO New Comment=200V, 0.01uF, 0603, X7R
+Change Component Comment : Designator=C29 Old Comment=C0805X103M2RACAUTO New Comment=200V, 0.01uF, 0603, X7R
+Change Component Comment : Designator=C30 Old Comment=C0805X103M2RACAUTO New Comment=200V, 0.01uF, 0603, X7R
+Change Component Comment : Designator=C31 Old Comment=C0805X103M2RACAUTO New Comment=200V, 0.01uF, 0603, X7R
+Change Component Comment : Designator=C32 Old Comment=C0805X103M2RACAUTO New Comment=200V, 0.01uF, 0603, X7R
+Change Component Comment : Designator=C33 Old Comment=C0805X103M2RACAUTO New Comment=200V, 0.01uF, 0603, X7R
+Change Component Comment : Designator=C34 Old Comment=C0805X103M2RACAUTO New Comment=200V, 0.01uF, 0603, X7R
+Change Component Comment : Designator=C35 Old Comment=C0805X103M2RACAUTO New Comment=200V, 0.01uF, 0603, X7R
+Change Component Comment : Designator=C36 Old Comment=C0805X103M2RACAUTO New Comment=200V, 0.01uF, 0603, X7R
+Change Component Comment : Designator=C37 Old Comment=C0805X103M2RACAUTO New Comment=200V, 0.01uF, 0603, X7R
+Change Component Comment : Designator=C38 Old Comment=C0805X103M2RACAUTO New Comment=200V, 0.01uF, 0603, X7R
+Change Component Comment : Designator=C39 Old Comment=C0805X103M2RACAUTO New Comment=200V, 0.01uF, 0603, X7R
+Change Component Comment : Designator=C40 Old Comment=C0805X103M2RACAUTO New Comment=200V, 0.01uF, 0603, X7R
+Change Component Comment : Designator=C41 Old Comment=C0805X103M2RACAUTO New Comment=200V, 0.01uF, 0603, X7R
+Change Component Comment : Designator=C42 Old Comment=C0805X103M2RACAUTO New Comment=200V, 0.01uF, 0603, X7R
+Change Component Comment : Designator=C43 Old Comment=C0805X103M2RACAUTO New Comment=200V, 0.01uF, 0603, X7R
+Change Component Comment : Designator=C44 Old Comment=C0805X103M2RACAUTO New Comment=200V, 0.01uF, 0603, X7R
+Change Component Comment : Designator=C45 Old Comment=C0805X103M2RACAUTO New Comment=200V, 0.01uF, 0603, X7R
+Change Component Comment : Designator=C46 Old Comment=C0805X103M2RACAUTO New Comment=200V, 0.01uF, 0603, X7R
+Change Component Comment : Designator=C47 Old Comment=C0805X103M2RACAUTO New Comment=200V, 0.01uF, 0603, X7R
+Change Component Comment : Designator=C48 Old Comment=C0805X103M2RACAUTO New Comment=200V, 0.01uF, 0603, X7R
+Change Component Comment : Designator=C49 Old Comment=C0805X103M2RACAUTO New Comment=200V, 0.01uF, 0603, X7R
+Change Component Comment : Designator=C50 Old Comment=C0805X103M2RACAUTO New Comment=200V, 0.01uF, 0603, X7R
+Change Component Comment : Designator=C51 Old Comment=C0805X103M2RACAUTO New Comment=200V, 0.01uF, 0603, X7R
+Change Component Comment : Designator=C65 Old Comment=C0805X103M2RACAUTO New Comment=200V, 0.01uF, 0603, X7R
+Change Component Comment : Designator=C69 Old Comment=C0805X103M2RACAUTO New Comment=200V, 0.01uF, 0603, X7R
+Change Component Comment : Designator=C70 Old Comment=C0805X103M2RACAUTO New Comment=200V, 0.01uF, 0603, X7R
+Change Component Comment : Designator=C71 Old Comment=C0805X103M2RACAUTO New Comment=200V, 0.01uF, 0603, X7R
+Change Component Comment : Designator=C72 Old Comment=C0805X103M2RACAUTO New Comment=200V, 0.01uF, 0603, X7R
+Change Component Comment : Designator=C73 Old Comment=C0805X103M2RACAUTO New Comment=200V, 0.01uF, 0603, X7R
+Change Component Description : Designator=C25 Old Description=200V, 0.01uF, 0603, X7R, Capacitor New Description=200V, 0.01uF, 0603, X7R, 10%, Capacitor
+Change Component Description : Designator=C26 Old Description=200V, 0.01uF, 0603, X7R, Capacitor New Description=200V, 0.01uF, 0603, X7R, 10%, Capacitor
+Change Component Description : Designator=C27 Old Description=200V, 0.01uF, 0603, X7R, Capacitor New Description=200V, 0.01uF, 0603, X7R, 10%, Capacitor
+Change Component Description : Designator=C28 Old Description=200V, 0.01uF, 0603, X7R, Capacitor New Description=200V, 0.01uF, 0603, X7R, 10%, Capacitor
+Change Component Description : Designator=C29 Old Description=200V, 0.01uF, 0603, X7R, Capacitor New Description=200V, 0.01uF, 0603, X7R, 10%, Capacitor
+Change Component Description : Designator=C30 Old Description=200V, 0.01uF, 0603, X7R, Capacitor New Description=200V, 0.01uF, 0603, X7R, 10%, Capacitor
+Change Component Description : Designator=C31 Old Description=200V, 0.01uF, 0603, X7R, Capacitor New Description=200V, 0.01uF, 0603, X7R, 10%, Capacitor
+Change Component Description : Designator=C32 Old Description=200V, 0.01uF, 0603, X7R, Capacitor New Description=200V, 0.01uF, 0603, X7R, 10%, Capacitor
+Change Component Description : Designator=C33 Old Description=200V, 0.01uF, 0603, X7R, Capacitor New Description=200V, 0.01uF, 0603, X7R, 10%, Capacitor
+Change Component Description : Designator=C34 Old Description=200V, 0.01uF, 0603, X7R, Capacitor New Description=200V, 0.01uF, 0603, X7R, 10%, Capacitor
+Change Component Description : Designator=C35 Old Description=200V, 0.01uF, 0603, X7R, Capacitor New Description=200V, 0.01uF, 0603, X7R, 10%, Capacitor
+Change Component Description : Designator=C36 Old Description=200V, 0.01uF, 0603, X7R, Capacitor New Description=200V, 0.01uF, 0603, X7R, 10%, Capacitor
+Change Component Description : Designator=C37 Old Description=200V, 0.01uF, 0603, X7R, Capacitor New Description=200V, 0.01uF, 0603, X7R, 10%, Capacitor
+Change Component Description : Designator=C38 Old Description=200V, 0.01uF, 0603, X7R, Capacitor New Description=200V, 0.01uF, 0603, X7R, 10%, Capacitor
+Change Component Description : Designator=C39 Old Description=200V, 0.01uF, 0603, X7R, Capacitor New Description=200V, 0.01uF, 0603, X7R, 10%, Capacitor
+Change Component Description : Designator=C40 Old Description=200V, 0.01uF, 0603, X7R, Capacitor New Description=200V, 0.01uF, 0603, X7R, 10%, Capacitor
+Change Component Description : Designator=C41 Old Description=200V, 0.01uF, 0603, X7R, Capacitor New Description=200V, 0.01uF, 0603, X7R, 10%, Capacitor
+Change Component Description : Designator=C42 Old Description=200V, 0.01uF, 0603, X7R, Capacitor New Description=200V, 0.01uF, 0603, X7R, 10%, Capacitor
+Change Component Description : Designator=C43 Old Description=200V, 0.01uF, 0603, X7R, Capacitor New Description=200V, 0.01uF, 0603, X7R, 10%, Capacitor
+Change Component Description : Designator=C44 Old Description=200V, 0.01uF, 0603, X7R, Capacitor New Description=200V, 0.01uF, 0603, X7R, 10%, Capacitor
+Change Component Description : Designator=C45 Old Description=200V, 0.01uF, 0603, X7R, Capacitor New Description=200V, 0.01uF, 0603, X7R, 10%, Capacitor
+Change Component Description : Designator=C46 Old Description=200V, 0.01uF, 0603, X7R, Capacitor New Description=200V, 0.01uF, 0603, X7R, 10%, Capacitor
+Change Component Description : Designator=C47 Old Description=200V, 0.01uF, 0603, X7R, Capacitor New Description=200V, 0.01uF, 0603, X7R, 10%, Capacitor
+Change Component Description : Designator=C48 Old Description=200V, 0.01uF, 0603, X7R, Capacitor New Description=200V, 0.01uF, 0603, X7R, 10%, Capacitor
+Change Component Description : Designator=C49 Old Description=200V, 0.01uF, 0603, X7R, Capacitor New Description=200V, 0.01uF, 0603, X7R, 10%, Capacitor
+Change Component Description : Designator=C50 Old Description=200V, 0.01uF, 0603, X7R, Capacitor New Description=200V, 0.01uF, 0603, X7R, 10%, Capacitor
+Change Component Description : Designator=C51 Old Description=200V, 0.01uF, 0603, X7R, Capacitor New Description=200V, 0.01uF, 0603, X7R, 10%, Capacitor
+Change Component Description : Designator=C65 Old Description=200V, 0.01uF, 0603, X7R, Capacitor New Description=200V, 0.01uF, 0603, X7R, 10%, Capacitor
+Change Component Description : Designator=C69 Old Description=200V, 0.01uF, 0603, X7R, Capacitor New Description=200V, 0.01uF, 0603, X7R, 10%, Capacitor
+Change Component Description : Designator=C70 Old Description=200V, 0.01uF, 0603, X7R, Capacitor New Description=200V, 0.01uF, 0603, X7R, 10%, Capacitor
+Change Component Description : Designator=C71 Old Description=200V, 0.01uF, 0603, X7R, Capacitor New Description=200V, 0.01uF, 0603, X7R, 10%, Capacitor
+Change Component Description : Designator=C72 Old Description=200V, 0.01uF, 0603, X7R, Capacitor New Description=200V, 0.01uF, 0603, X7R, 10%, Capacitor
+Change Component Description : Designator=C73 Old Description=200V, 0.01uF, 0603, X7R, Capacitor New Description=200V, 0.01uF, 0603, X7R, 10%, Capacitor
+Added Pin To Net: NetName=CELL_UF_10 Pin=P1-1
+Added Pin To Net: NetName=CELL_UF_11 Pin=P1-2
+Added Pin To Net: NetName=CELL_UF_0 Pin=P1-3
+Added Pin To Net: NetName=CELL_UF_1 Pin=P1-4
+Added Pin To Net: NetName=CELL_UF_9 Pin=P1-5
+Added Pin To Net: NetName=CELL_UF_8 Pin=P1-6
+Added Pin To Net: NetName=CELL_UF_3 Pin=P1-11
+Added Pin To Net: NetName=CELL_UF_2 Pin=P1-12
+Added Member To Class: ClassName=BMS_Slave Member=Component U1 LTC6811-1

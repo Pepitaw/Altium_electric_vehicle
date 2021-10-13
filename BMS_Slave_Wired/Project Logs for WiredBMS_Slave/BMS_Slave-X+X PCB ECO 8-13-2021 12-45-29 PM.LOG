@@ -1,0 +1,3 @@
+Change Net Name : Old Net Name=NetJ3_1 New Net Name=PORTA_N
+Change Net Name : Old Net Name=NetJ3_2 New Net Name=PORTA_P
+Added Differential Pair: Name=PORTA

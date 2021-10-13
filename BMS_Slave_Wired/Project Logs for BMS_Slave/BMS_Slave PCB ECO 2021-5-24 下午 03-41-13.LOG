@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=GNDB Pin=R114-2
+Removed Pin From Net: NetName=GNDB Pin=R115-2
+Removed Member From Class: ClassName=BMS_Slave Member=R114
+Removed Member From Class: ClassName=BMS_Slave Member=R115
+Change Component Comment : Designator=R125 Old Comment=CRCW060310K0FKEAC New Comment=5k
+Added Member To Class: ClassName=BMS_Slave Member=Component L1 CDRH105RNP-151NC

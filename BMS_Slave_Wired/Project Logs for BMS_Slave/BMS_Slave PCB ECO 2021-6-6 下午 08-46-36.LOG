@@ -1,0 +1,17 @@
+Added Component: Designator=U4(SOT95P280X100-5N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "ADP160AUJZ-3.3-R7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/adp160aujz-3.3-r7/analog-devices"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://datasheet.lcsc.com/szlcsc/Analog-Devices-ADI-ADP160AUJZ-3-3-R7_C153207.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Analog Devices"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ADP160AUJZ-3.3-R7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "584-ADP160AUJZ-3.3R7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Analog-Devices/ADP160AUJZ-33-R7?qs=WIvQP4zGanjwQREaBvEWig%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=4V Pin=U4-1
+Added Pin To Net: NetName=GNDA Pin=U4-2
+Added Pin To Net: NetName=4V Pin=U4-3
+Added Pin To Net: NetName=3.3V Pin=U4-5
+Added Member To Class: ClassName=BMS_Slave Member=Component P1 Molex 12ckt Connector
+Added Member To Class: ClassName=BMS_Slave Member=Component P2 79107-7015
+Added Member To Class: ClassName=BMS_Slave Member=Component U4 ADP160AUJZ-3.3-R7

@@ -1,0 +1,8 @@
+Change Component Comment : Designator=R116 Old Comment=CRCW060310K0FKEAC New Comment=1k
+Change Component Comment : Designator=R118 Old Comment=CRCW060310K0FKEAC New Comment=1k
+Change Net Name : Old Net Name=ISO_SPI__N New Net Name=ISO_SPI_BOTTOM_N
+Change Net Name : Old Net Name=ISO_SPI__P New Net Name=ISO_SPI_BOTTOM_P
+Change Net Name : Old Net Name=NetC72_1 New Net Name=ISO_SPI_TOP_P
+Change Net Name : Old Net Name=NetC73_1 New Net Name=ISO_SPI_TOP_N
+Added Differential Pair: Name=ISO_SPI_BOTTOM
+Added Differential Pair: Name=ISO_SPI_TOP

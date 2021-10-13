@@ -1,0 +1,18 @@
+Change Component Footprint: Designator=C76 Old Footprint=CAPC5750X165N New Footprint=CAPC3225X270N
+Added Component: Designator=C77(CAPC3225X270N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "GRM32ER61A107ME20L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/grm32er61a107me20l/murata-manufacturing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.mouser.tw/ProductDetail/Murata-Electronics/GRM32ER61A107ME20L?qs=QRVci0nWsCb7NlWFDLlBHA%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Alternative"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.mouser.tw/ProductDetail/Murata-Electronics/GRM32ER61A107ME20L?qs=QRVci0nWsCb7NlWFDLlBHA%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.murata.com/en-global/api/pdfdownloadapi?cate=luCeramicCapacitorsSMD&partno=GRM32ER61A107ME20%23"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "2.7mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "GRM32ER61A107ME20L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "81-GRM32ER61A107ME0L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Murata-Electronics/GRM32ER61A107ME20L?qs=QRVci0nWsCb7NlWFDLlBHA%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3.3V Pin=C77-1
+Added Pin To Net: NetName=GNDA Pin=C77-2
+Added Member To Class: ClassName=BMS_Slave Member=Component C77 GRM32ER61A107ME20L

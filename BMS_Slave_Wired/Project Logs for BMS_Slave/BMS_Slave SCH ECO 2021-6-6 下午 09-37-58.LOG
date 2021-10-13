@@ -1,0 +1,16 @@
+Add Pin To Net: Pin=J6-4 Old Net=NetJ6_4 New Net=GPIO17
+Add Pin To Net: Pin=J6-5 Old Net=NetJ6_5 New Net=GPIO18
+Add Pin To Net: Pin=J6-6 Old Net=NetJ6_6 New Net=GPIO19
+Add Pin To Net: Pin=J6-7 Old Net=NetJ6_7 New Net=AI-2
+Add Pin To Net: Pin=J6-8 Old Net=NetJ6_8 New Net=AI-1
+Add Pin To Net: Pin=J6-9 Old Net=NetJ6_9 New Net=AI-3
+Add Pin To Net: Pin=J6-10 Old Net=NetJ6_10 New Net=AI-0
+Add Pin To Net: Pin=J6-15 Old Net=NetJ6_15 New Net=RESETn
+Add Pin To Net: Pin=J6-16 Old Net=NetJ6_16 New Net=TDI
+Add Pin To Net: Pin=J6-17 Old Net=NetJ6_17 New Net=TDO
+Add Pin To Net: Pin=J6-18 Old Net=NetJ6_18 New Net=TMS
+Add Pin To Net: Pin=J6-19 Old Net=NetJ6_19 New Net=TCK
+Add Pin To Net: Pin=J6-21 Old Net=NetJ6_21 New Net=GPIO23
+Add Pin To Net: Pin=J6-25 Old Net=NetJ6_25 New Net=GPIO22
+Add Pin To Net: Pin=J6-26 Old Net=NetJ6_26 New Net=GPIO21
+Add Pin To Net: Pin=J7-29 Old Net=NetJ7_29 New Net=MISO

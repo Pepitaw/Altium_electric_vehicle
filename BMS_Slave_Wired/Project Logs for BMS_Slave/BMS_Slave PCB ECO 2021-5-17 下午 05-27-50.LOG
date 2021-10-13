@@ -1,0 +1,6 @@
+Change Component Comment : Designator=R113 Old Comment=CRCW060310K0FKEAC New Comment=1k
+Change Component Comment : Designator=R117 Old Comment=CRCW060310K0FKEAC New Comment=1k
+Change Net Name : Old Net Name=NetFL1_1 New Net Name=ISO_SPI__P
+Change Net Name : Old Net Name=NetFL1_2 New Net Name=ISO_SPI__N
+Added Differential Pair: Name=ISO_SPI_
+Added Member To Class: ClassName=BMS_Slave Member=Component C102 200V, 0.01uF, 0603, X7R

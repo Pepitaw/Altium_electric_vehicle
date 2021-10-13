@@ -1,0 +1,39 @@
+Change Component DesignItemId : Designator=C50 Old DesignItemId=C0603C103K2RECTU New DesignItemId=C0805C103K2RACTU
+Change Component DesignItemId : Designator=C69 Old DesignItemId=C0603C103K2RECTU New DesignItemId=C0805C103K2RACTU
+Change Component DesignItemId : Designator=C70 Old DesignItemId=C0603C103K2RECTU New DesignItemId=C0805C103K2RACTU
+Change Component Footprint: Designator=C50 Old Footprint=CAPC1608X85N New Footprint=CAPC2012X88N
+Change Component Footprint: Designator=C69 Old Footprint=CAPC1608X85N New Footprint=CAPC2012X88N
+Change Component Footprint: Designator=C70 Old Footprint=CAPC1608X85N New Footprint=CAPC2012X88N
+Change Component Description : Designator=C50 Old Description=200V, 0.01uF, 0603, X7R, 10%, Capacitor New Description=Capacitor
+Change Component Description : Designator=C69 Old Description=200V, 0.01uF, 0603, X7R, 10%, Capacitor New Description=Capacitor
+Change Component Description : Designator=C70 Old Description=200V, 0.01uF, 0603, X7R, 10%, Capacitor New Description=Capacitor
+Change component parameters: Designator = "C50"; Footprint = "CAPC2012X88N"; UniqueID = "\PEJTKFHO"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "C0805C103K2RACTU"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/c0805c103k2ractu/kemet-corporation"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "http://docs-emea.rs-online.com/webdocs/1515/0900766b8151517e.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.88mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Kemet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "C0805C103K2RACTU"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "80-C0805C103K2R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=80-C0805C103K2R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C69"; Footprint = "CAPC2012X88N"; UniqueID = "\RPKYRMFR"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "C0805C103K2RACTU"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/c0805c103k2ractu/kemet-corporation"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "http://docs-emea.rs-online.com/webdocs/1515/0900766b8151517e.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.88mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Kemet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "C0805C103K2RACTU"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "80-C0805C103K2R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=80-C0805C103K2R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C70"; Footprint = "CAPC2012X88N"; UniqueID = "\VJSPVTVI"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "C0805C103K2RACTU"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/c0805c103k2ractu/kemet-corporation"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "http://docs-emea.rs-online.com/webdocs/1515/0900766b8151517e.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.88mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Kemet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "C0805C103K2RACTU"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "80-C0805C103K2R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=80-C0805C103K2R"; VariantName = "[No Variations]"

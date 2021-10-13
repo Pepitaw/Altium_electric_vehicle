@@ -1,0 +1,12 @@
+isolate gnd (R61 & R62)
+isolate 5V (R63)
+遲滯比較器的R45劃錯位置
+adcmp393 pad 加大!!!
+
+
+所有元件pad 變大
+
+polygen 與 track
+
+換5V regulator
+584-ADP7104ARDZ5.0R7

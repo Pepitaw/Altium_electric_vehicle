@@ -1,0 +1,16 @@
+Change Component DesignItemId : Designator=C102 Old DesignItemId=C0805C103K2RACTU New DesignItemId=C0603C103K2RECTU
+Change Component Footprint: Designator=C102 Old Footprint=CAPC2012X88N New Footprint=CAPC1608X85N
+Change Component Description : Designator=C102 Old Description=Capacitor New Description=200V, 0.01uF, 0603, X7R, 10%, Capacitor
+Change component parameters: Designator = "C102"; Footprint = "CAPC1608X85N"; UniqueID = "\HIVKXIFG"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.mouser.tw/ProductDetail/KEMET/C0603C103K2RECTU?qs=Mv7BduZupUj%2FMy3Zlcu2KQ%3D%3D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://eu.mouser.com/datasheet/2/212/1/KEM_C1078_X7R_FT-CAP_AUTO_SMD-1103315.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.98mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Kemet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "C0805X103M2RACAUTO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "80-C0805X103M2RAUTO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/KEMET/C0805X103M2RACAUTO?qs=W%2FMpXkg%252BdQ50YX0BoZGkVA%3D%3D"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=BMS_Slave Member=Component C102 200V, 0.01uF, 0603, X7R

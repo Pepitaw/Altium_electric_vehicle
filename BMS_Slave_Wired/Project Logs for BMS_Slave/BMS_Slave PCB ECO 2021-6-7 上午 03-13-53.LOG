@@ -1,0 +1,13 @@
+Change Component DesignItemId : Designator=J4 Old DesignItemId=87831-1020 New DesignItemId=61201021621
+Change Component Footprint: Designator=J4 Old Footprint=SHDR10W55P200_2X5_1265X630X640P New Footprint=SHDR10W64P254_2X5_2036X885X925P
+Change Component Comment : Designator=J4 Old Comment=87831-1020 New Comment=61201021621
+Change component parameters: Designator = "J4"; Footprint = "SHDR10W64P254_2X5_2036X885X925P"; UniqueID = "\VJUDFHXQ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "http://docs-emea.rs-online.com/webdocs/13f3/0900766b813f3580.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "9.25mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "61201021621"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "710-61201021621"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Wurth-Elektronik/61201021621?qs=W%252B2sBeLta1a0dwX5pxbfXw%3D%3D"; VariantName = "[No Variations]"

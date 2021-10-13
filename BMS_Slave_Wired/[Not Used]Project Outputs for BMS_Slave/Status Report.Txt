@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [BMS_Slave.PrjPCB]
+   Generated File[BMS_Slave.TXT]
+   Generated File[BMS_Slave.LDP]
+   Generated File[BMS_Slave.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 8:43:10 AM On 7/12/2021

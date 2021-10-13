@@ -1,0 +1,98 @@
+Removed Pin From Net: NetName=3.3V Pin=C49-1
+Removed Pin From Net: NetName=3.3V Pin=C76-1
+Removed Pin From Net: NetName=3.3V Pin=C103-1
+Removed Pin From Net: NetName=3.3V Pin=U3-9
+Change Component Comment : Designator=C103 Old Comment=200V, 0.01uF, 0603, X7R New Comment=200V, 0.1uF, 0603, X7R
+Change Component Comment : Designator=C49 Old Comment=GRM32ER61A107ME20L New Comment=100uF, 10V
+Change Component Comment : Designator=C76 Old Comment=GRM32ER61A107ME20L New Comment=100uF, 10V
+Change Component Comment : Designator=P1 Old Comment=HDR-WURTH-62003221821-2X16-2MM New Comment=79107-7015
+Change Component Comment : Designator=P2 Old Comment=HDR-WURTH-62003221821-2X16-2MM New Comment=79107-7015
+Change component parameters: Designator = "P1"; Footprint = "791077015"; UniqueID = "\OBEFWFXO"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://www.mouser.it/ProductDetail/?qs=sC9oT6LG9NABSUXoaYw0oQ%3D%3D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "4.69mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Molex"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "79107-7015"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "538-79107-7015"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Molex/79107-7015/?qs=sC9oT6LG9NABSUXoaYw0oQ%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "P2"; Footprint = "791077015"; UniqueID = "\QXDGQGEG"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://www.mouser.it/ProductDetail/?qs=sC9oT6LG9NABSUXoaYw0oQ%3D%3D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "4.69mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Molex"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "79107-7015"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "538-79107-7015"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Molex/79107-7015/?qs=sC9oT6LG9NABSUXoaYw0oQ%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=C104(CAPC2012X88N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "C0805C103K2RACTU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/c0805c103k2ractu/kemet-corporation"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://docs-emea.rs-online.com/webdocs/1515/0900766b8151517e.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.88mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Kemet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "C0805C103K2RACTU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "80-C0805C103K2R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=80-C0805C103K2R"; VariantName = "[No Variations]"
+Added Component: Designator=R114*(RESC1608X55N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Case/Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "http://www.vishay.com/docs/28773/crcwce3.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.vishay.com/docs/28773/crcwce3.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "http://datasheet.octopart.com/CRCW080510K0FKEAC-Vishay-datasheet-100063072.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://datasheet.octopart.com/CRCW080510K0FKEAC-Vishay-datasheet-100063072.pdf?src-supplier=Future+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CRCW080510K0FKEAC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "125mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "10000R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Added Component: Designator=R115(RESC1608X55N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Case/Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.mouser.tw/ProductDetail/Vishay-Beyschlag/MCT06030C2004FP500?qs=hjSuqQECij9Iroq7LyPT3w%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CRCW080510K0FKEAC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "125mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "10000R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Added Component: Designator=R137(RESC1608X55N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Case/Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.mouser.tw/ProductDetail/Vishay-Beyschlag/MCT06030C4993FP500?qs=8lczJKL2ryeXiIiBeB6JCA%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CRCW080510K0FKEAC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "125mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "10000R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GNDA Pin=C104-2
+Added Pin To Net: NetName=3.3V Pin=R114*-1
+Added Pin To Net: NetName=GNDA Pin=R137-1
+Added Pin To Net: NetName=GNDA Pin=U3-6
+Added Pin To Net: NetName=4V Pin=C49-1
+Added Pin To Net: NetName=4V Pin=C76-1
+Added Pin To Net: NetName=4V Pin=C103-1
+Added Pin To Net: NetName=4V Pin=L1-2
+Added Pin To Net: NetName=4V Pin=R114*-2
+Added Pin To Net: NetName=4V Pin=R115-2
+Added Net: Name=4V
+Added Pin To Net: NetName=NetC104_1 Pin=C104-1
+Added Pin To Net: NetName=NetC104_1 Pin=U3-10
+Added Net: Name=NetC104_1
+Added Pin To Net: NetName=NetR115_1 Pin=R115-1
+Added Pin To Net: NetName=NetR115_1 Pin=R137-2
+Added Pin To Net: NetName=NetR115_1 Pin=U3-9
+Added Net: Name=NetR115_1
+Added Member To Class: ClassName=BMS_Slave Member=Component C104 200V, 0.1uF, 0603, X7R
+Added Member To Class: ClassName=BMS_Slave Member=Component P1 Molex 12ckt Connector
+Added Member To Class: ClassName=BMS_Slave Member=Component P2 79107-7015
+Added Member To Class: ClassName=BMS_Slave Member=Component R114* 0R
+Added Member To Class: ClassName=BMS_Slave Member=Component R115 2M
+Added Member To Class: ClassName=BMS_Slave Member=Component R137 499k

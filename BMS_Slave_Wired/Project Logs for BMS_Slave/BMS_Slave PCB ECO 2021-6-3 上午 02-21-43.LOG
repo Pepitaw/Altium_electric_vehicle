@@ -1,0 +1,8 @@
+Change Component Comment : Designator=R128 Old Comment=CRCW060310K0FKEAC New Comment=0R
+Added Pin To Net: NetName=GPIO17 Pin=BRD1-4
+Added Net: Name=GPIO17
+Added Pin To Net: NetName=GPIO18 Pin=BRD1-5
+Added Net: Name=GPIO18
+Added Pin To Net: NetName=GPIO19 Pin=BRD1-6
+Added Net: Name=GPIO19
+Added Member To Class: ClassName=BMS_Slave Member=Component R103 CRCW060310K0FKEAC

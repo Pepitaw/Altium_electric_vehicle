@@ -1,0 +1,17 @@
+Add Pin To Net: Pin=J7-5 Old Net=NetJ7_5 New Net=UART_TX_CTSn
+Add Pin To Net: Pin=J7-6 Old Net=NetJ7_6 New Net=UART_TX
+Add Pin To Net: Pin=J7-7 Old Net=NetJ7_7 New Net=UART_RX
+Add Pin To Net: Pin=J7-8 Old Net=NetJ7_8 New Net=UART_TX_RTSn
+Add Pin To Net: Pin=J7-9 Old Net=NetJ7_9 New Net=UART_RX_RTSn
+Add Pin To Net: Pin=J7-10 Old Net=NetJ7_10 New Net=UART_RX_CTSn
+Add Pin To Net: Pin=J7-17 Old Net=NetJ7_17 New Net=SCL
+Add Pin To Net: Pin=J7-18 Old Net=NetJ7_18 New Net=SDA
+Add Pin To Net: Pin=J7-19 Old Net=NetJ7_19 New Net=SPIS_MISO
+Add Pin To Net: Pin=J7-20 Old Net=NetJ7_20 New Net=SPIS_MOSI
+Add Pin To Net: Pin=J7-21 Old Net=NetJ7_21 New Net=TIMER16_IN
+Add Pin To Net: Pin=J7-22 Old Net=NetJ7_22 New Net=PWM0
+Add Pin To Net: Pin=J7-23 Old Net=NetJ7_23 New Net=CS1
+Add Pin To Net: Pin=J7-24 Old Net=NetJ7_24 New Net=C\S\
+Add Pin To Net: Pin=J7-25 Old Net=NetJ7_25 New Net=CLK
+Add Pin To Net: Pin=J7-28 Old Net=NetJ7_28 New Net=MOSI
+Change Pin Designator/Name:  Old Designator=J7-29 Old Name=29 New Designator =30 New Name=30

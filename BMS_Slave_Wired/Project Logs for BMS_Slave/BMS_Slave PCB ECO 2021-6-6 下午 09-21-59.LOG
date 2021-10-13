@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=P1 Old Footprint=HDR-WURTH-62003221821-2X16-2MM New Footprint=791077015
+Change Component Footprint: Designator=P2 Old Footprint=HDR-WURTH-62003221821-2X16-2MM New Footprint=791077015
+Added Member To Class: ClassName=BMS_Slave Member=Component P1 Molex 12ckt Connector
+Added Member To Class: ClassName=BMS_Slave Member=Component P2 79107-7015

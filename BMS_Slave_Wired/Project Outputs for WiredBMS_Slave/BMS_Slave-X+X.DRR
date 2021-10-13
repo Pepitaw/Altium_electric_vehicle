@@ -1,0 +1,25 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: BMS_Slave-X+X.PcbDoc   8/16/2021  2:20:14 AM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : BMS_Slave-X+X.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      12mil (0.305mm)                                           Round             62        PTH        0.00inch (0.00mm)
+T2      16mil (0.406mm)                                           Round             701       PTH        0.00inch (0.00mm)
+T3      20mil (0.508mm)                                           Round             208       PTH        0.00inch (0.00mm)
+T4      25mil (0.635mm)                                           Round             4         PTH        0.00inch (0.00mm)
+T5      35mil (0.9mm)                                             Round             12        PTH        0.00inch (0.00mm)
+T6      38mil (0.97mm)                                            Round             16        PTH        0.00inch (0.00mm)
+T7      39mil (1mm)             +/-3mil (0.08mm)                  Round             28        PTH        0.00inch (0.00mm)
+T8      39mil (1mm)                                               Round             24        PTH        0.00inch (0.00mm)
+T9      65mil (1.65mm)                                            Round             4         PTH        0.00inch (0.00mm)
+T10     85mil (2.15mm)          +/-3mil (0.08mm)                  Round             4         PTH        0.00inch (0.00mm)
+T11     126mil (3.2mm)          +/-4mil (0.1mm)                   Round             4         PTH        0.00inch (0.00mm)
+T12     131mil (3.33mm)                                           Round             4         NPTH       0.00inch (0.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              1071
+
+Total Processing Time (hh:mm:ss) : 00:00:00

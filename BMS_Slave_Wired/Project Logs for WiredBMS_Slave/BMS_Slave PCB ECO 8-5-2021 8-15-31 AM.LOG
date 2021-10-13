@@ -1,0 +1,134 @@
+Change Component Comment : Designator=C69 Old Comment=200V, 0.01uF, 0603, X7R New Comment=200V, 0.1uF, 0603, X7R
+Change Component Comment : Designator=C70 Old Comment=200V, 0.01uF, 0603, X7R New Comment=200V, 0.1uF, 0603, X7R
+Change Component Comment : Designator=C49 Old Comment=200V, 0.01uF, 0603, X7R New Comment=200V, 0.01uF, 0805, X7R
+Change Component Comment : Designator=C50 Old Comment=200V, 0.01uF, 0603, X7R New Comment=200V, 0.1uF, 0805, X7R
+Change Component Comment : Designator=C51 Old Comment=200V, 0.01uF, 0603, X7R New Comment=200V, 0.1uF, 0805, X7R
+Change Component Comment : Designator=C65 Old Comment=200V, 0.01uF, 0603, X7R New Comment=200V, 0.01uF, 0805, X7R
+Change Component Comment : Designator=C74 Old Comment=200V, 0.01uF, 0603, X7R New Comment=200V, 0.01uF, 0805, X7R
+Added Component: Designator=C75(CAPC2012X88N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "C0805C103K2RACTU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/c0805c103k2ractu/kemet-corporation"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://docs-emea.rs-online.com/webdocs/1515/0900766b8151517e.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.88mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Kemet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "C0805C103K2RACTU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "80-C0805C103K2R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=80-C0805C103K2R"; VariantName = "[No Variations]"
+Added Component: Designator=C76(CAPC2012X88N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "C0805C103K2RACTU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/c0805c103k2ractu/kemet-corporation"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://docs-emea.rs-online.com/webdocs/1515/0900766b8151517e.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.88mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Kemet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "C0805C103K2RACTU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "80-C0805C103K2R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=80-C0805C103K2R"; VariantName = "[No Variations]"
+Added Component: Designator=C102(CAPC2012X88N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "C0805C103K2RACTU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/c0805c103k2ractu/kemet-corporation"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://docs-emea.rs-online.com/webdocs/1515/0900766b8151517e.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.88mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Kemet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "C0805C103K2RACTU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "80-C0805C103K2R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=80-C0805C103K2R"; VariantName = "[No Variations]"
+Added Component: Designator=C103(CAPC2012X88N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "C0805C103K2RACTU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/c0805c103k2ractu/kemet-corporation"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://docs-emea.rs-online.com/webdocs/1515/0900766b8151517e.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.88mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Kemet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "C0805C103K2RACTU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "80-C0805C103K2R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=80-C0805C103K2R"; VariantName = "[No Variations]"
+Added Component: Designator=J3(54062981)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "5406298-1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/5406298-1/te-connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F5406298%7FD%7Fpdf%7FEnglish%7FENG_CD_5406298_D.pdf%7F5406298-1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "14.48mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "5406298-1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "571-5406298-1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/TE-Connectivity/5406298-1?qs=l9GpKJB5FDKzdZ%252B2Xub1%2Fg%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=J4(54062981)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "5406298-1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/5406298-1/te-connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F5406298%7FD%7Fpdf%7FEnglish%7FENG_CD_5406298_D.pdf%7F5406298-1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "14.48mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "5406298-1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "571-5406298-1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/TE-Connectivity/5406298-1?qs=l9GpKJB5FDKzdZ%252B2Xub1%2Fg%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=T1(HX1188NLT)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "HX1188NLT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/hx1188nlt/pulse-electronics-corporation"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://productfinder.pulseeng.com/doc_type/WEB301/doc_num/HX1188NL-01/doc_part/HX1188NL.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "6.07mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Pulse"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "HX1188NLT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "673-HX1188NLT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Pulse-Electronics/HX1188NLT?qs=7h3O1UVlCGOyAkRk4EAe8A%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=T2(HX1188NLT)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "HX1188NLT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/hx1188nlt/pulse-electronics-corporation"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://productfinder.pulseeng.com/doc_type/WEB301/doc_num/HX1188NL-01/doc_part/HX1188NL.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "6.07mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Pulse"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "HX1188NLT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "673-HX1188NLT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Pulse-Electronics/HX1188NLT?qs=7h3O1UVlCGOyAkRk4EAe8A%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GNDB Pin=C75-2
+Added Pin To Net: NetName=GNDA Pin=C76-2
+Added Pin To Net: NetName=GNDB Pin=C102-2
+Added Pin To Net: NetName=GNDA Pin=C103-2
+Added Pin To Net: NetName=NetR114_1 Pin=T1-14
+Added Pin To Net: NetName=NetR112_2 Pin=T1-16
+Added Pin To Net: NetName=IPA Pin=T2-14
+Added Pin To Net: NetName=IPB Pin=T2-16
+Added Pin To Net: NetName=NetC75_1 Pin=C75-1
+Added Pin To Net: NetName=NetC75_1 Pin=T1-15
+Added Net: Name=NetC75_1
+Added Pin To Net: NetName=NetC76_1 Pin=C76-1
+Added Pin To Net: NetName=NetC76_1 Pin=T2-15
+Added Net: Name=NetC76_1
+Added Pin To Net: NetName=NetC102_1 Pin=C102-1
+Added Pin To Net: NetName=NetC102_1 Pin=T1-2
+Added Net: Name=NetC102_1
+Added Pin To Net: NetName=NetC103_1 Pin=C103-1
+Added Pin To Net: NetName=NetC103_1 Pin=T2-2
+Added Net: Name=NetC103_1
+Added Pin To Net: NetName=NetJ3_1 Pin=J3-1
+Added Pin To Net: NetName=NetJ3_1 Pin=T1-1
+Added Net: Name=NetJ3_1
+Added Pin To Net: NetName=NetJ3_2 Pin=J3-2
+Added Pin To Net: NetName=NetJ3_2 Pin=T1-3
+Added Net: Name=NetJ3_2
+Added Pin To Net: NetName=NetJ4_1 Pin=J4-1
+Added Pin To Net: NetName=NetJ4_1 Pin=T2-1
+Added Net: Name=NetJ4_1
+Added Pin To Net: NetName=NetJ4_2 Pin=J4-2
+Added Pin To Net: NetName=NetJ4_2 Pin=T2-3
+Added Net: Name=NetJ4_2
+Added Pin To Net: NetName=SHIELD1 Pin=J4-9
+Added Pin To Net: NetName=SHIELD1 Pin=J4-10
+Added Net: Name=SHIELD1
+Added Pin To Net: NetName=SHIELD2 Pin=J3-9
+Added Pin To Net: NetName=SHIELD2 Pin=J3-10
+Added Net: Name=SHIELD2
+Added Member To Class: ClassName=BMS_Slave Member=Component C75 200V, 0.01uF, 0805, X7R
+Added Member To Class: ClassName=BMS_Slave Member=Component C76 200V, 0.01uF, 0805, X7R
+Added Member To Class: ClassName=BMS_Slave Member=Component C102 200V, 0.01uF, 0805, X7R
+Added Member To Class: ClassName=BMS_Slave Member=Component C103 200V, 0.01uF, 0805, X7R
+Added Member To Class: ClassName=BMS_Slave Member=Component J3 5406298-1
+Added Member To Class: ClassName=BMS_Slave Member=Component J4 5406298-1
+Added Member To Class: ClassName=BMS_Slave Member=Component T1 HX1188NLT
+Added Member To Class: ClassName=BMS_Slave Member=Component T2 HX1188NLT
+Added Room: Name=BMS_Slave

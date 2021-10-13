@@ -1,0 +1,10 @@
+DRC Rules Export File for PCB: D:\FSAE2021\WirelessBMS\BMS_Slave\BMS_Slave.PcbDoc
+RuleKind=Clearance|RuleName=C0-24 CLEARANCE|Scope=Board|Minimum=10.00
+RuleKind=Clearance|RuleName=Layer2 Clearance|Scope=Board|Minimum=40.00
+RuleKind=Clearance|RuleName=Cell_UF_0-24 CLEARANCE|Scope=Board|Minimum=10.00
+RuleKind=Clearance|RuleName=MOS DRAIN CLEARANCE|Scope=Board|Minimum=10.00
+RuleKind=Clearance|RuleName=Cell0-24 CLEARANCE|Scope=Board|Minimum=10.00
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=10.00
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=6.00
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0

@@ -1,0 +1,110 @@
+Change Component Comment : Designator=C49 Old Comment=100uF, 10V New Comment=GRM32ER61A107ME20L
+Change Component Comment : Designator=C76 Old Comment=100uF, 10V New Comment=GRM32ER61A107ME20L
+Change Component Comment : Designator=R130 Old Comment=CRCW060310K0FKEAC New Comment=0R
+Change Component Comment : Designator=R136 Old Comment=CRCW060310K0FKEAC New Comment=0R
+Change Component Comment : Designator=R126 Old Comment=CRCW060310K0FKEAC New Comment=100k
+Change Component Comment : Designator=R134 Old Comment=CRCW060310K0FKEAC New Comment=100k
+Change component parameters: Designator = "C49"; Footprint = "CAPC3225X270N"; UniqueID = "\XLBAJNPB"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "GRM32ER61A107ME20L"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/grm32er61a107me20l/murata-manufacturing"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.mouser.tw/ProductDetail/Murata-Electronics/GRM32ER61A107ME20L?qs=QRVci0nWsCb7NlWFDLlBHA%3D%3D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Alternative"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.mouser.tw/ProductDetail/KEMET/C1210C107M8PACTU?qs=%2Fha2pyFaduiE5F3NeAx%252BsprSoAdidwO3b%2FrC%252BOmtqFrT1TfrhYgUKA%3D%3D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://www.murata.com/en-global/api/pdfdownloadapi?cate=luCeramicCapacitorsSMD&partno=GRM32ER61A107ME20%23"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "2.7mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "GRM32ER61A107ME20L"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "81-GRM32ER61A107ME0L"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Murata-Electronics/GRM32ER61A107ME20L?qs=QRVci0nWsCb7NlWFDLlBHA%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C76"; Footprint = "CAPC3225X270N"; UniqueID = "\TXMYEQBW"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "GRM32ER61A107ME20L"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/grm32er61a107me20l/murata-manufacturing"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.mouser.tw/ProductDetail/Murata-Electronics/GRM32ER61A107ME20L?qs=QRVci0nWsCb7NlWFDLlBHA%3D%3D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Alternative"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.mouser.tw/ProductDetail/KEMET/C1210C107M8PACTU?qs=%2Fha2pyFaduiE5F3NeAx%252BsprSoAdidwO3b%2FrC%252BOmtqFrT1TfrhYgUKA%3D%3D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://www.murata.com/en-global/api/pdfdownloadapi?cate=luCeramicCapacitorsSMD&partno=GRM32ER61A107ME20%23"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "2.7mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "GRM32ER61A107ME20L"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "81-GRM32ER61A107ME0L"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Murata-Electronics/GRM32ER61A107ME20L?qs=QRVci0nWsCb7NlWFDLlBHA%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "J4"; Footprint = "SHDR10W64P254_2X5_2036X885X925P"; UniqueID = "\VJUDFHXQ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.mouser.tw/ProductDetail/Wurth-Elektronik/61201021621?qs=W%252B2sBeLta1a0dwX5pxbfXw%3D%3D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "http://docs-emea.rs-online.com/webdocs/13f3/0900766b813f3580.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "9.25mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "61201021621"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "710-61201021621"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Wurth-Elektronik/61201021621?qs=W%252B2sBeLta1a0dwX5pxbfXw%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=C105(CAPC3225X270N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "GRM32ER61A107ME20L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/grm32er61a107me20l/murata-manufacturing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.mouser.tw/ProductDetail/Murata-Electronics/GRM32ER61A107ME20L?qs=QRVci0nWsCb7NlWFDLlBHA%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Alternative"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.mouser.tw/ProductDetail/KEMET/C1210C107M8PACTU?qs=%2Fha2pyFaduiE5F3NeAx%252BsprSoAdidwO3b%2FrC%252BOmtqFrT1TfrhYgUKA%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.murata.com/en-global/api/pdfdownloadapi?cate=luCeramicCapacitorsSMD&partno=GRM32ER61A107ME20%23"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "2.7mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "GRM32ER61A107ME20L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "81-GRM32ER61A107ME0L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Murata-Electronics/GRM32ER61A107ME20L?qs=QRVci0nWsCb7NlWFDLlBHA%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=C107(CAPC3225X270N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "GRM32ER61A107ME20L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/grm32er61a107me20l/murata-manufacturing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.mouser.tw/ProductDetail/Murata-Electronics/GRM32ER61A107ME20L?qs=QRVci0nWsCb7NlWFDLlBHA%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Alternative"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.mouser.tw/ProductDetail/KEMET/C1210C107M8PACTU?qs=%2Fha2pyFaduiE5F3NeAx%252BsprSoAdidwO3b%2FrC%252BOmtqFrT1TfrhYgUKA%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.murata.com/en-global/api/pdfdownloadapi?cate=luCeramicCapacitorsSMD&partno=GRM32ER61A107ME20%23"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "2.7mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "GRM32ER61A107ME20L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "81-GRM32ER61A107ME0L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Murata-Electronics/GRM32ER61A107ME20L?qs=QRVci0nWsCb7NlWFDLlBHA%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=C108(CAPC3225X270N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "GRM32ER61A107ME20L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/grm32er61a107me20l/murata-manufacturing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.mouser.tw/ProductDetail/Murata-Electronics/GRM32ER61A107ME20L?qs=QRVci0nWsCb7NlWFDLlBHA%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Alternative"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.mouser.tw/ProductDetail/KEMET/C1210C107M8PACTU?qs=%2Fha2pyFaduiE5F3NeAx%252BsprSoAdidwO3b%2FrC%252BOmtqFrT1TfrhYgUKA%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.murata.com/en-global/api/pdfdownloadapi?cate=luCeramicCapacitorsSMD&partno=GRM32ER61A107ME20%23"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "2.7mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "GRM32ER61A107ME20L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "81-GRM32ER61A107ME0L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Murata-Electronics/GRM32ER61A107ME20L?qs=QRVci0nWsCb7NlWFDLlBHA%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=IC1(SOP65P640X120-14N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "MCP2221-I/ST"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/mcp2221-ist/microchip-technology"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://docs-emea.rs-online.com/webdocs/132b/0900766b8132b385.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Microchip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "MCP2221-I/ST"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "579-MCP2221-I/ST"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Microchip-Technology/MCP2221-I-ST?qs=wzzOUr4NhYoPuo4kDaXumA%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=4V Pin=C105-1
+Added Pin To Net: NetName=GNDA Pin=C105-2
+Added Pin To Net: NetName=3.3V Pin=C107-1
+Added Pin To Net: NetName=GNDA Pin=C107-2
+Added Pin To Net: NetName=3.3V Pin=C108-1
+Added Pin To Net: NetName=GNDA Pin=C108-2
+Change Net Name : Old Net Name=SPIS_SCK New Net Name=SCL
+Change Net Name : Old Net Name=SPIS_SS New Net Name=SDA
+Added Member To Class: ClassName=BMS_Slave Member=Component C105 GRM32ER61A107ME20L
+Added Member To Class: ClassName=BMS_Slave Member=Component C107 GRM32ER61A107ME20L
+Added Member To Class: ClassName=BMS_Slave Member=Component C108 GRM32ER61A107ME20L
+Added Member To Class: ClassName=BMS_Slave Member=Component IC1 MCP2221-I_ST

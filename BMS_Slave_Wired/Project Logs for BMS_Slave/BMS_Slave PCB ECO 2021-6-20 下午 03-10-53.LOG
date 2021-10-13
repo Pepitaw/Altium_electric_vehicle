@@ -1,0 +1,513 @@
+Change Component DesignItemId : Designator=C49 Old DesignItemId=GRM32ER61A107ME20L New DesignItemId=C3216JB1A336M160AB
+Change Component DesignItemId : Designator=C76 Old DesignItemId=GRM32ER61A107ME20L New DesignItemId=C3216JB1A336M160AB
+Change Component DesignItemId : Designator=C105 Old DesignItemId=GRM32ER61A107ME20L New DesignItemId=C3216JB1A336M160AB
+Change Component DesignItemId : Designator=C107 Old DesignItemId=GRM32ER61A107ME20L New DesignItemId=C3216JB1A336M160AB
+Change Component DesignItemId : Designator=C108 Old DesignItemId=GRM32ER61A107ME20L New DesignItemId=C3216JB1A336M160AB
+Change Component Footprint: Designator=C49 Old Footprint=CAPC3225X270N New Footprint=CAPC3216X180N
+Change Component Footprint: Designator=C76 Old Footprint=CAPC3225X270N New Footprint=CAPC3216X180N
+Change Component Footprint: Designator=C105 Old Footprint=CAPC3225X270N New Footprint=CAPC3216X180N
+Change Component Footprint: Designator=C107 Old Footprint=CAPC3225X270N New Footprint=CAPC3216X180N
+Change Component Footprint: Designator=C108 Old Footprint=CAPC3225X270N New Footprint=CAPC3216X180N
+Change Component Footprint: Designator=F1 Old Footprint=FUSC10948X488N New Footprint=20mm_fuse_SMD
+Change Component Footprint: Designator=F2 Old Footprint=FUSC10948X488N New Footprint=20mm_fuse_SMD
+Change Component Footprint: Designator=F3 Old Footprint=FUSC10948X488N New Footprint=20mm_fuse_SMD
+Change Component Footprint: Designator=F4 Old Footprint=FUSC10948X488N New Footprint=20mm_fuse_SMD
+Change Component Footprint: Designator=F5 Old Footprint=FUSC10948X488N New Footprint=20mm_fuse_SMD
+Change Component Footprint: Designator=F6 Old Footprint=FUSC10948X488N New Footprint=20mm_fuse_SMD
+Change Component Footprint: Designator=F7 Old Footprint=FUSC10948X488N New Footprint=20mm_fuse_SMD
+Change Component Footprint: Designator=F8 Old Footprint=FUSC10948X488N New Footprint=20mm_fuse_SMD
+Change Component Footprint: Designator=F9 Old Footprint=FUSC10948X488N New Footprint=20mm_fuse_SMD
+Change Component Footprint: Designator=F10 Old Footprint=FUSC10948X488N New Footprint=20mm_fuse_SMD
+Change Component Footprint: Designator=F11 Old Footprint=FUSC10948X488N New Footprint=20mm_fuse_SMD
+Change Component Footprint: Designator=F12 Old Footprint=FUSC10948X488N New Footprint=20mm_fuse_SMD
+Change Component Footprint: Designator=F13 Old Footprint=FUSC10948X488N New Footprint=20mm_fuse_SMD
+Change Component Footprint: Designator=F14 Old Footprint=FUSC10948X488N New Footprint=20mm_fuse_SMD
+Change Component Footprint: Designator=F15 Old Footprint=FUSC10948X488N New Footprint=20mm_fuse_SMD
+Change Component Footprint: Designator=F16 Old Footprint=FUSC10948X488N New Footprint=20mm_fuse_SMD
+Change Component Footprint: Designator=F17 Old Footprint=FUSC10948X488N New Footprint=20mm_fuse_SMD
+Change Component Footprint: Designator=F18 Old Footprint=FUSC10948X488N New Footprint=20mm_fuse_SMD
+Change Component Footprint: Designator=F19 Old Footprint=FUSC10948X488N New Footprint=20mm_fuse_SMD
+Change Component Footprint: Designator=F20 Old Footprint=FUSC10948X488N New Footprint=20mm_fuse_SMD
+Change Component Footprint: Designator=F21 Old Footprint=FUSC10948X488N New Footprint=20mm_fuse_SMD
+Change Component Footprint: Designator=F22 Old Footprint=FUSC10948X488N New Footprint=20mm_fuse_SMD
+Change Component Footprint: Designator=F23 Old Footprint=FUSC10948X488N New Footprint=20mm_fuse_SMD
+Change Component Footprint: Designator=F24 Old Footprint=FUSC10948X488N New Footprint=20mm_fuse_SMD
+Change Component Footprint: Designator=F25 Old Footprint=FUSC10948X488N New Footprint=20mm_fuse_SMD
+Change Component Comment : Designator=C106 Old Comment=C1210C107M8PACTU New Comment=10V 100uF 1210 X5R 20%
+Change Component Comment : Designator=C109 Old Comment=C1210C107M8PACTU New Comment=10V 100uF 1210 X5R 20%
+Change Component Comment : Designator=C74 Old Comment=C2220C105KARACAUTO New Comment=0.1uF
+Change Component Comment : Designator=R127 Old Comment=CRCW060310K0FKEAC New Comment=100k
+Change Component Comment : Designator=C49 Old Comment=GRM32ER61A107ME20L New Comment=10V 100uF 1210 X5R 20%
+Change Component Comment : Designator=C76 Old Comment=GRM32ER61A107ME20L New Comment=10V 100uF 1210 X5R 20%
+Change Component Comment : Designator=C105 Old Comment=GRM32ER61A107ME20L New Comment=10V 100uF 1210 X5R 20%
+Change Component Comment : Designator=C107 Old Comment=GRM32ER61A107ME20L New Comment=10V 100uF 1210 X5R 20%
+Change Component Comment : Designator=C108 Old Comment=GRM32ER61A107ME20L New Comment=10V 100uF 1210 X5R 20%
+Change Component Comment : Designator=D51 Old Comment=S1D-13-F New Comment=Vr=200V, If=1.1A
+Change Component Description : Designator=C106 Old Description=Capacitor, C1210C107M8PACTU New Description=10V 100uF 1210 X5R 20% Ceramic Capacitor
+Change Component Description : Designator=C109 Old Description=Capacitor, C1210C107M8PACTU New Description=10V 100uF 1210 X5R 20% Ceramic Capacitor
+Change Component Description : Designator=C49 Old Description=Capacitor New Description=10V 100uF 1210 X5R 20% Ceramic Capacitor
+Change Component Description : Designator=C76 Old Description=Capacitor New Description=10V 100uF 1210 X5R 20% Ceramic Capacitor
+Change Component Description : Designator=C105 Old Description=Capacitor New Description=10V 100uF 1210 X5R 20% Ceramic Capacitor
+Change Component Description : Designator=C107 Old Description=Capacitor New Description=10V 100uF 1210 X5R 20% Ceramic Capacitor
+Change Component Description : Designator=C108 Old Description=Capacitor New Description=10V 100uF 1210 X5R 20% Ceramic Capacitor
+Change Component Description : Designator=D51 Old Description=Diode New Description=Vr=200V, If=1.1A, Max Surge Current=30A, SMA Diode, Standard Recovery Rectifiers
+Change Component Library : Designator=C106 Old Library=* New Library=BMS_Slave.SchLib
+Change Component Library : Designator=C109 Old Library=* New Library=BMS_Slave.SchLib
+Change Component Library : Designator=D51 Old Library=* New Library=BMS_Slave.SchLib
+Change Component Library : Designator=F1 Old Library=* New Library=BMS_Slave.SchLib
+Change Component Library : Designator=F2 Old Library=* New Library=BMS_Slave.SchLib
+Change Component Library : Designator=F3 Old Library=* New Library=BMS_Slave.SchLib
+Change Component Library : Designator=F4 Old Library=* New Library=BMS_Slave.SchLib
+Change Component Library : Designator=F5 Old Library=* New Library=BMS_Slave.SchLib
+Change Component Library : Designator=F6 Old Library=* New Library=BMS_Slave.SchLib
+Change Component Library : Designator=F7 Old Library=* New Library=BMS_Slave.SchLib
+Change Component Library : Designator=F8 Old Library=* New Library=BMS_Slave.SchLib
+Change Component Library : Designator=F9 Old Library=* New Library=BMS_Slave.SchLib
+Change Component Library : Designator=F10 Old Library=* New Library=BMS_Slave.SchLib
+Change Component Library : Designator=F11 Old Library=* New Library=BMS_Slave.SchLib
+Change Component Library : Designator=F12 Old Library=* New Library=BMS_Slave.SchLib
+Change Component Library : Designator=F13 Old Library=* New Library=BMS_Slave.SchLib
+Change Component Library : Designator=F14 Old Library=* New Library=BMS_Slave.SchLib
+Change Component Library : Designator=F15 Old Library=* New Library=BMS_Slave.SchLib
+Change Component Library : Designator=F16 Old Library=* New Library=BMS_Slave.SchLib
+Change Component Library : Designator=F17 Old Library=* New Library=BMS_Slave.SchLib
+Change Component Library : Designator=F18 Old Library=* New Library=BMS_Slave.SchLib
+Change Component Library : Designator=F19 Old Library=* New Library=BMS_Slave.SchLib
+Change Component Library : Designator=F20 Old Library=* New Library=BMS_Slave.SchLib
+Change Component Library : Designator=F21 Old Library=* New Library=BMS_Slave.SchLib
+Change Component Library : Designator=F22 Old Library=* New Library=BMS_Slave.SchLib
+Change Component Library : Designator=F23 Old Library=* New Library=BMS_Slave.SchLib
+Change Component Library : Designator=F24 Old Library=* New Library=BMS_Slave.SchLib
+Change Component Library : Designator=F25 Old Library=* New Library=BMS_Slave.SchLib
+Change component parameters: Designator = "C106"; Footprint = "CAPC3216X180N"; UniqueID = "\OIQZVAIA"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://product.tdk.com/info/en/catalog/datasheets/mlcc_commercial_general_en.pdf?ref_disty=digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "1.8mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "TDK"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "C3216JB1A336M160AB"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "C109"; Footprint = "CAPC3216X180N"; UniqueID = "\ESGHLOQY"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://product.tdk.com/info/en/catalog/datasheets/mlcc_commercial_general_en.pdf?ref_disty=digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "1.8mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "TDK"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "C3216JB1A336M160AB"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "D51"; Footprint = "DIOM5226X240N"; UniqueID = "\AXFMZDYZ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "S1D-13-F"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/s1d-13-f/diodes-incorporated"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.mouser.tw/ProductDetail/Diodes-Incorporated/S1D-13-F?qs=ilKFrTStgeHzNpk1Eq9Reg%3D%3D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "http://uk.rs-online.com/web/p/products/7385061P"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "2.4mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Diodes Inc."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "S1D-13-F"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "621-S1D-F"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Diodes-Incorporated/S1D-13-F?qs=ilKFrTStgeHzNpk1Eq9Reg%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "F1"; Footprint = "20mm_fuse_SMD"; UniqueID = "\NVJKEJSG"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "0885001.DR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/0885001.dr/littelfuse"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.mouser.tw/ProductDetail/Littelfuse/0885001DR?qs=%2Fha2pyFaduiwU43SpjNCEUlIPJiIEFAqTblCrVFP8sIyn2w6Lh2S1g%3D%3D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.mouser.tw/datasheet/2/240/Littelfuse_Fuse_885_Datasheet_pdf-1371443.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://m.littelfuse.com/~/media/electronics/datasheets/fuses/littelfuse_fuse_885_datasheet.pdf.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "4.88mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "LITTELFUSE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "0885001.DR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "576-0885001.DR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Littelfuse/0885001DR/?qs=r5DSvlrkXmKVcuud9wy%2Flg%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "F2"; Footprint = "20mm_fuse_SMD"; UniqueID = "\GWSBPCIB"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "0885001.DR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/0885001.dr/littelfuse"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.mouser.tw/ProductDetail/Littelfuse/0885001DR?qs=%2Fha2pyFaduiwU43SpjNCEUlIPJiIEFAqTblCrVFP8sIyn2w6Lh2S1g%3D%3D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.mouser.tw/datasheet/2/240/Littelfuse_Fuse_885_Datasheet_pdf-1371443.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://m.littelfuse.com/~/media/electronics/datasheets/fuses/littelfuse_fuse_885_datasheet.pdf.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "4.88mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "LITTELFUSE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "0885001.DR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "576-0885001.DR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Littelfuse/0885001DR/?qs=r5DSvlrkXmKVcuud9wy%2Flg%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "F3"; Footprint = "20mm_fuse_SMD"; UniqueID = "\HNLPRABL"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "0885001.DR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/0885001.dr/littelfuse"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.mouser.tw/ProductDetail/Littelfuse/0885001DR?qs=%2Fha2pyFaduiwU43SpjNCEUlIPJiIEFAqTblCrVFP8sIyn2w6Lh2S1g%3D%3D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.mouser.tw/datasheet/2/240/Littelfuse_Fuse_885_Datasheet_pdf-1371443.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://m.littelfuse.com/~/media/electronics/datasheets/fuses/littelfuse_fuse_885_datasheet.pdf.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "4.88mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "LITTELFUSE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "0885001.DR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "576-0885001.DR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Littelfuse/0885001DR/?qs=r5DSvlrkXmKVcuud9wy%2Flg%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "F4"; Footprint = "20mm_fuse_SMD"; UniqueID = "\HUNIPHSH"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "0885001.DR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/0885001.dr/littelfuse"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.mouser.tw/ProductDetail/Littelfuse/0885001DR?qs=%2Fha2pyFaduiwU43SpjNCEUlIPJiIEFAqTblCrVFP8sIyn2w6Lh2S1g%3D%3D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.mouser.tw/datasheet/2/240/Littelfuse_Fuse_885_Datasheet_pdf-1371443.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://m.littelfuse.com/~/media/electronics/datasheets/fuses/littelfuse_fuse_885_datasheet.pdf.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "4.88mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "LITTELFUSE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "0885001.DR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "576-0885001.DR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Littelfuse/0885001DR/?qs=r5DSvlrkXmKVcuud9wy%2Flg%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "F5"; Footprint = "20mm_fuse_SMD"; UniqueID = "\UQMBEKSL"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "0885001.DR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/0885001.dr/littelfuse"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.mouser.tw/ProductDetail/Littelfuse/0885001DR?qs=%2Fha2pyFaduiwU43SpjNCEUlIPJiIEFAqTblCrVFP8sIyn2w6Lh2S1g%3D%3D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.mouser.tw/datasheet/2/240/Littelfuse_Fuse_885_Datasheet_pdf-1371443.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://m.littelfuse.com/~/media/electronics/datasheets/fuses/littelfuse_fuse_885_datasheet.pdf.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "4.88mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "LITTELFUSE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "0885001.DR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "576-0885001.DR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Littelfuse/0885001DR/?qs=r5DSvlrkXmKVcuud9wy%2Flg%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "F6"; Footprint = "20mm_fuse_SMD"; UniqueID = "\JYUPDSPV"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "0885001.DR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/0885001.dr/littelfuse"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.mouser.tw/ProductDetail/Littelfuse/0885001DR?qs=%2Fha2pyFaduiwU43SpjNCEUlIPJiIEFAqTblCrVFP8sIyn2w6Lh2S1g%3D%3D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.mouser.tw/datasheet/2/240/Littelfuse_Fuse_885_Datasheet_pdf-1371443.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://m.littelfuse.com/~/media/electronics/datasheets/fuses/littelfuse_fuse_885_datasheet.pdf.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "4.88mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "LITTELFUSE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "0885001.DR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "576-0885001.DR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Littelfuse/0885001DR/?qs=r5DSvlrkXmKVcuud9wy%2Flg%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "F7"; Footprint = "20mm_fuse_SMD"; UniqueID = "\WNXJIQNM"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "0885001.DR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/0885001.dr/littelfuse"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.mouser.tw/ProductDetail/Littelfuse/0885001DR?qs=%2Fha2pyFaduiwU43SpjNCEUlIPJiIEFAqTblCrVFP8sIyn2w6Lh2S1g%3D%3D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.mouser.tw/datasheet/2/240/Littelfuse_Fuse_885_Datasheet_pdf-1371443.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://m.littelfuse.com/~/media/electronics/datasheets/fuses/littelfuse_fuse_885_datasheet.pdf.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "4.88mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "LITTELFUSE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "0885001.DR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "576-0885001.DR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Littelfuse/0885001DR/?qs=r5DSvlrkXmKVcuud9wy%2Flg%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "F8"; Footprint = "20mm_fuse_SMD"; UniqueID = "\XBSRULRM"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "0885001.DR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/0885001.dr/littelfuse"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.mouser.tw/ProductDetail/Littelfuse/0885001DR?qs=%2Fha2pyFaduiwU43SpjNCEUlIPJiIEFAqTblCrVFP8sIyn2w6Lh2S1g%3D%3D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.mouser.tw/datasheet/2/240/Littelfuse_Fuse_885_Datasheet_pdf-1371443.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://m.littelfuse.com/~/media/electronics/datasheets/fuses/littelfuse_fuse_885_datasheet.pdf.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "4.88mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "LITTELFUSE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "0885001.DR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "576-0885001.DR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Littelfuse/0885001DR/?qs=r5DSvlrkXmKVcuud9wy%2Flg%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "F9"; Footprint = "20mm_fuse_SMD"; UniqueID = "\VTWWHWON"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "0885001.DR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/0885001.dr/littelfuse"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.mouser.tw/ProductDetail/Littelfuse/0885001DR?qs=%2Fha2pyFaduiwU43SpjNCEUlIPJiIEFAqTblCrVFP8sIyn2w6Lh2S1g%3D%3D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.mouser.tw/datasheet/2/240/Littelfuse_Fuse_885_Datasheet_pdf-1371443.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://m.littelfuse.com/~/media/electronics/datasheets/fuses/littelfuse_fuse_885_datasheet.pdf.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "4.88mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "LITTELFUSE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "0885001.DR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "576-0885001.DR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Littelfuse/0885001DR/?qs=r5DSvlrkXmKVcuud9wy%2Flg%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "F10"; Footprint = "20mm_fuse_SMD"; UniqueID = "\GICUTHIC"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "0885001.DR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/0885001.dr/littelfuse"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.mouser.tw/ProductDetail/Littelfuse/0885001DR?qs=%2Fha2pyFaduiwU43SpjNCEUlIPJiIEFAqTblCrVFP8sIyn2w6Lh2S1g%3D%3D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.mouser.tw/datasheet/2/240/Littelfuse_Fuse_885_Datasheet_pdf-1371443.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://m.littelfuse.com/~/media/electronics/datasheets/fuses/littelfuse_fuse_885_datasheet.pdf.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "4.88mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "LITTELFUSE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "0885001.DR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "576-0885001.DR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Littelfuse/0885001DR/?qs=r5DSvlrkXmKVcuud9wy%2Flg%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "F11"; Footprint = "20mm_fuse_SMD"; UniqueID = "\MVKICYDS"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "0885001.DR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/0885001.dr/littelfuse"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.mouser.tw/ProductDetail/Littelfuse/0885001DR?qs=%2Fha2pyFaduiwU43SpjNCEUlIPJiIEFAqTblCrVFP8sIyn2w6Lh2S1g%3D%3D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.mouser.tw/datasheet/2/240/Littelfuse_Fuse_885_Datasheet_pdf-1371443.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://m.littelfuse.com/~/media/electronics/datasheets/fuses/littelfuse_fuse_885_datasheet.pdf.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "4.88mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "LITTELFUSE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "0885001.DR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "576-0885001.DR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Littelfuse/0885001DR/?qs=r5DSvlrkXmKVcuud9wy%2Flg%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "F12"; Footprint = "20mm_fuse_SMD"; UniqueID = "\IRMOBDQM"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "0885001.DR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/0885001.dr/littelfuse"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.mouser.tw/ProductDetail/Littelfuse/0885001DR?qs=%2Fha2pyFaduiwU43SpjNCEUlIPJiIEFAqTblCrVFP8sIyn2w6Lh2S1g%3D%3D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.mouser.tw/datasheet/2/240/Littelfuse_Fuse_885_Datasheet_pdf-1371443.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://m.littelfuse.com/~/media/electronics/datasheets/fuses/littelfuse_fuse_885_datasheet.pdf.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "4.88mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "LITTELFUSE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "0885001.DR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "576-0885001.DR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Littelfuse/0885001DR/?qs=r5DSvlrkXmKVcuud9wy%2Flg%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "F13"; Footprint = "20mm_fuse_SMD"; UniqueID = "\UPHDGYIN"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "0885001.DR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/0885001.dr/littelfuse"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.mouser.tw/ProductDetail/Littelfuse/0885001DR?qs=%2Fha2pyFaduiwU43SpjNCEUlIPJiIEFAqTblCrVFP8sIyn2w6Lh2S1g%3D%3D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.mouser.tw/datasheet/2/240/Littelfuse_Fuse_885_Datasheet_pdf-1371443.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://m.littelfuse.com/~/media/electronics/datasheets/fuses/littelfuse_fuse_885_datasheet.pdf.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "4.88mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "LITTELFUSE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "0885001.DR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "576-0885001.DR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Littelfuse/0885001DR/?qs=r5DSvlrkXmKVcuud9wy%2Flg%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "F14"; Footprint = "20mm_fuse_SMD"; UniqueID = "\KNRCZEJP"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "0885001.DR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/0885001.dr/littelfuse"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.mouser.tw/ProductDetail/Littelfuse/0885001DR?qs=%2Fha2pyFaduiwU43SpjNCEUlIPJiIEFAqTblCrVFP8sIyn2w6Lh2S1g%3D%3D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.mouser.tw/datasheet/2/240/Littelfuse_Fuse_885_Datasheet_pdf-1371443.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://m.littelfuse.com/~/media/electronics/datasheets/fuses/littelfuse_fuse_885_datasheet.pdf.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "4.88mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "LITTELFUSE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "0885001.DR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "576-0885001.DR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Littelfuse/0885001DR/?qs=r5DSvlrkXmKVcuud9wy%2Flg%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "F15"; Footprint = "20mm_fuse_SMD"; UniqueID = "\WPJZLFUA"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "0885001.DR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/0885001.dr/littelfuse"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.mouser.tw/ProductDetail/Littelfuse/0885001DR?qs=%2Fha2pyFaduiwU43SpjNCEUlIPJiIEFAqTblCrVFP8sIyn2w6Lh2S1g%3D%3D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.mouser.tw/datasheet/2/240/Littelfuse_Fuse_885_Datasheet_pdf-1371443.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://m.littelfuse.com/~/media/electronics/datasheets/fuses/littelfuse_fuse_885_datasheet.pdf.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "4.88mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "LITTELFUSE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "0885001.DR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "576-0885001.DR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Littelfuse/0885001DR/?qs=r5DSvlrkXmKVcuud9wy%2Flg%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "F16"; Footprint = "20mm_fuse_SMD"; UniqueID = "\NLTPPFRB"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "0885001.DR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/0885001.dr/littelfuse"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.mouser.tw/ProductDetail/Littelfuse/0885001DR?qs=%2Fha2pyFaduiwU43SpjNCEUlIPJiIEFAqTblCrVFP8sIyn2w6Lh2S1g%3D%3D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.mouser.tw/datasheet/2/240/Littelfuse_Fuse_885_Datasheet_pdf-1371443.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://m.littelfuse.com/~/media/electronics/datasheets/fuses/littelfuse_fuse_885_datasheet.pdf.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "4.88mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "LITTELFUSE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "0885001.DR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "576-0885001.DR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Littelfuse/0885001DR/?qs=r5DSvlrkXmKVcuud9wy%2Flg%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "F17"; Footprint = "20mm_fuse_SMD"; UniqueID = "\DBDBEPGX"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "0885001.DR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/0885001.dr/littelfuse"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.mouser.tw/ProductDetail/Littelfuse/0885001DR?qs=%2Fha2pyFaduiwU43SpjNCEUlIPJiIEFAqTblCrVFP8sIyn2w6Lh2S1g%3D%3D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.mouser.tw/datasheet/2/240/Littelfuse_Fuse_885_Datasheet_pdf-1371443.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://m.littelfuse.com/~/media/electronics/datasheets/fuses/littelfuse_fuse_885_datasheet.pdf.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "4.88mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "LITTELFUSE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "0885001.DR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "576-0885001.DR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Littelfuse/0885001DR/?qs=r5DSvlrkXmKVcuud9wy%2Flg%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "F18"; Footprint = "20mm_fuse_SMD"; UniqueID = "\BDKESAYJ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "0885001.DR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/0885001.dr/littelfuse"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.mouser.tw/ProductDetail/Littelfuse/0885001DR?qs=%2Fha2pyFaduiwU43SpjNCEUlIPJiIEFAqTblCrVFP8sIyn2w6Lh2S1g%3D%3D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.mouser.tw/datasheet/2/240/Littelfuse_Fuse_885_Datasheet_pdf-1371443.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://m.littelfuse.com/~/media/electronics/datasheets/fuses/littelfuse_fuse_885_datasheet.pdf.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "4.88mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "LITTELFUSE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "0885001.DR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "576-0885001.DR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Littelfuse/0885001DR/?qs=r5DSvlrkXmKVcuud9wy%2Flg%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "F19"; Footprint = "20mm_fuse_SMD"; UniqueID = "\VZKWLZTW"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "0885001.DR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/0885001.dr/littelfuse"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.mouser.tw/ProductDetail/Littelfuse/0885001DR?qs=%2Fha2pyFaduiwU43SpjNCEUlIPJiIEFAqTblCrVFP8sIyn2w6Lh2S1g%3D%3D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.mouser.tw/datasheet/2/240/Littelfuse_Fuse_885_Datasheet_pdf-1371443.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://m.littelfuse.com/~/media/electronics/datasheets/fuses/littelfuse_fuse_885_datasheet.pdf.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "4.88mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "LITTELFUSE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "0885001.DR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "576-0885001.DR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Littelfuse/0885001DR/?qs=r5DSvlrkXmKVcuud9wy%2Flg%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "F20"; Footprint = "20mm_fuse_SMD"; UniqueID = "\VBGTXBGX"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "0885001.DR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/0885001.dr/littelfuse"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.mouser.tw/ProductDetail/Littelfuse/0885001DR?qs=%2Fha2pyFaduiwU43SpjNCEUlIPJiIEFAqTblCrVFP8sIyn2w6Lh2S1g%3D%3D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.mouser.tw/datasheet/2/240/Littelfuse_Fuse_885_Datasheet_pdf-1371443.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://m.littelfuse.com/~/media/electronics/datasheets/fuses/littelfuse_fuse_885_datasheet.pdf.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "4.88mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "LITTELFUSE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "0885001.DR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "576-0885001.DR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Littelfuse/0885001DR/?qs=r5DSvlrkXmKVcuud9wy%2Flg%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "F21"; Footprint = "20mm_fuse_SMD"; UniqueID = "\TBGKBCAC"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "0885001.DR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/0885001.dr/littelfuse"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.mouser.tw/ProductDetail/Littelfuse/0885001DR?qs=%2Fha2pyFaduiwU43SpjNCEUlIPJiIEFAqTblCrVFP8sIyn2w6Lh2S1g%3D%3D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.mouser.tw/datasheet/2/240/Littelfuse_Fuse_885_Datasheet_pdf-1371443.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://m.littelfuse.com/~/media/electronics/datasheets/fuses/littelfuse_fuse_885_datasheet.pdf.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "4.88mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "LITTELFUSE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "0885001.DR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "576-0885001.DR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Littelfuse/0885001DR/?qs=r5DSvlrkXmKVcuud9wy%2Flg%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "F22"; Footprint = "20mm_fuse_SMD"; UniqueID = "\LHWALGXX"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "0885001.DR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/0885001.dr/littelfuse"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.mouser.tw/ProductDetail/Littelfuse/0885001DR?qs=%2Fha2pyFaduiwU43SpjNCEUlIPJiIEFAqTblCrVFP8sIyn2w6Lh2S1g%3D%3D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.mouser.tw/datasheet/2/240/Littelfuse_Fuse_885_Datasheet_pdf-1371443.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://m.littelfuse.com/~/media/electronics/datasheets/fuses/littelfuse_fuse_885_datasheet.pdf.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "4.88mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "LITTELFUSE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "0885001.DR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "576-0885001.DR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Littelfuse/0885001DR/?qs=r5DSvlrkXmKVcuud9wy%2Flg%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "F23"; Footprint = "20mm_fuse_SMD"; UniqueID = "\HKDLTYVP"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "0885001.DR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/0885001.dr/littelfuse"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.mouser.tw/ProductDetail/Littelfuse/0885001DR?qs=%2Fha2pyFaduiwU43SpjNCEUlIPJiIEFAqTblCrVFP8sIyn2w6Lh2S1g%3D%3D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.mouser.tw/datasheet/2/240/Littelfuse_Fuse_885_Datasheet_pdf-1371443.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://m.littelfuse.com/~/media/electronics/datasheets/fuses/littelfuse_fuse_885_datasheet.pdf.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "4.88mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "LITTELFUSE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "0885001.DR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "576-0885001.DR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Littelfuse/0885001DR/?qs=r5DSvlrkXmKVcuud9wy%2Flg%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "F24"; Footprint = "20mm_fuse_SMD"; UniqueID = "\YQAZLZWL"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "0885001.DR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/0885001.dr/littelfuse"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.mouser.tw/ProductDetail/Littelfuse/0885001DR?qs=%2Fha2pyFaduiwU43SpjNCEUlIPJiIEFAqTblCrVFP8sIyn2w6Lh2S1g%3D%3D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.mouser.tw/datasheet/2/240/Littelfuse_Fuse_885_Datasheet_pdf-1371443.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://m.littelfuse.com/~/media/electronics/datasheets/fuses/littelfuse_fuse_885_datasheet.pdf.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "4.88mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "LITTELFUSE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "0885001.DR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "576-0885001.DR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Littelfuse/0885001DR/?qs=r5DSvlrkXmKVcuud9wy%2Flg%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "F25"; Footprint = "20mm_fuse_SMD"; UniqueID = "\VJOQHERN"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "0885001.DR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/0885001.dr/littelfuse"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.mouser.tw/ProductDetail/Littelfuse/0885001DR?qs=%2Fha2pyFaduiwU43SpjNCEUlIPJiIEFAqTblCrVFP8sIyn2w6Lh2S1g%3D%3D"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.mouser.tw/datasheet/2/240/Littelfuse_Fuse_885_Datasheet_pdf-1371443.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://m.littelfuse.com/~/media/electronics/datasheets/fuses/littelfuse_fuse_885_datasheet.pdf.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "4.88mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "LITTELFUSE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "0885001.DR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "576-0885001.DR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Littelfuse/0885001DR/?qs=r5DSvlrkXmKVcuud9wy%2Flg%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C49"; Footprint = "CAPC3216X180N"; UniqueID = "\XLBAJNPB"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://product.tdk.com/info/en/catalog/datasheets/mlcc_commercial_general_en.pdf?ref_disty=digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "1.8mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "TDK"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "C3216JB1A336M160AB"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "C76"; Footprint = "CAPC3216X180N"; UniqueID = "\TXMYEQBW"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://product.tdk.com/info/en/catalog/datasheets/mlcc_commercial_general_en.pdf?ref_disty=digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "1.8mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "TDK"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "C3216JB1A336M160AB"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "C105"; Footprint = "CAPC3216X180N"; UniqueID = "\GTHQTVGG"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://product.tdk.com/info/en/catalog/datasheets/mlcc_commercial_general_en.pdf?ref_disty=digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "1.8mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "TDK"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "C3216JB1A336M160AB"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "C107"; Footprint = "CAPC3216X180N"; UniqueID = "\UCDWQLHJ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://product.tdk.com/info/en/catalog/datasheets/mlcc_commercial_general_en.pdf?ref_disty=digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "1.8mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "TDK"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "C3216JB1A336M160AB"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "C108"; Footprint = "CAPC3216X180N"; UniqueID = "\BARLUFOV"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://product.tdk.com/info/en/catalog/datasheets/mlcc_commercial_general_en.pdf?ref_disty=digikey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "1.8mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "TDK"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "C3216JB1A336M160AB"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"

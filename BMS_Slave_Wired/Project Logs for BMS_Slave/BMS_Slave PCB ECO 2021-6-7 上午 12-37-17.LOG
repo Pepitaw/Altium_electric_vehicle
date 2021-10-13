@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=TCK Pin=J4-1
+Removed Pin From Net: NetName=GNDA Pin=J4-2
+Removed Pin From Net: NetName=TMS Pin=J4-3
+Removed Pin From Net: NetName=TDO Pin=J4-4
+Removed Pin From Net: NetName=TDI Pin=J4-6
+Removed Pin From Net: NetName=GNDA Pin=J4-7
+Removed Pin From Net: NetName=3.3V Pin=J4-10
+Removed Pin From Net: NetName=RESETn Pin=R131-1
+Removed Member From Class: ClassName=BMS_Slave Member=R131
+Change Component Comment : Designator=R135 Old Comment=CRCW060310K0FKEAC New Comment=100k
+Added Pin To Net: NetName=3.3V Pin=J4-1
+Added Pin To Net: NetName=TMS Pin=J4-2
+Added Pin To Net: NetName=GNDA Pin=J4-3
+Added Pin To Net: NetName=TCK Pin=J4-4
+Added Pin To Net: NetName=TDO Pin=J4-6
+Added Pin To Net: NetName=TDI Pin=J4-8
+Added Pin To Net: NetName=RESETn Pin=J4-10

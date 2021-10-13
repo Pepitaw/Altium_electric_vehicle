@@ -1,0 +1,13 @@
+Change Net Name : Old Net Name=IPA New Net Name=ISOSPI_A_P
+Change Net Name : Old Net Name=IPB New Net Name=ISOSPI_A_N
+Change Net Name : Old Net Name=NetJ3_1 New Net Name=PORTA_N
+Change Net Name : Old Net Name=NetJ3_2 New Net Name=PORTA_P
+Change Net Name : Old Net Name=NetJ4_1 New Net Name=PORTB_N
+Change Net Name : Old Net Name=NetJ4_2 New Net Name=PORTB_P
+Change Net Name : Old Net Name=NetR112_2 New Net Name=ISOSPI_B_N
+Change Net Name : Old Net Name=NetR114_1 New Net Name=ISOSPI_B_P
+Added Differential Pair: Name=ISOSPI_A
+Added Differential Pair: Name=ISOSPI_B
+Added Differential Pair: Name=PORTA
+Added Differential Pair: Name=PORTB
+Added Member To Class: ClassName=BMS_Slave Member=Component J4 5406298-1

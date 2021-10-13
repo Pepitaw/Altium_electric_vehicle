@@ -1,0 +1,15 @@
+Added Component: Designator=C101(CAPC1608X85N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.mouser.tw/ProductDetail/KEMET/C0603C103K2RECTU?qs=Mv7BduZupUj%2FMy3Zlcu2KQ%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://eu.mouser.com/datasheet/2/212/1/KEM_C1078_X7R_FT-CAP_AUTO_SMD-1103315.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.98mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Kemet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "C0805X103M2RACAUTO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "80-C0805X103M2RAUTO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/KEMET/C0805X103M2RACAUTO?qs=W%2FMpXkg%252BdQ50YX0BoZGkVA%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=C0 Pin=C101-1
+Added Pin To Net: NetName=GNDA Pin=C101-2
+Added Member To Class: ClassName=BMS_Slave Member=Component C101 200V, 0.01uF, 0603, X7R

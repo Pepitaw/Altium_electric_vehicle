@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=GNDB Pin=C102-2
+Removed Pin From Net: NetName=GNDA Pin=C103-2
+Added Pin To Net: NetName=SHIELD2 Pin=C102-2
+Added Pin To Net: NetName=SHIELD1 Pin=C103-2
